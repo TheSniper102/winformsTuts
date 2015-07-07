@@ -1,0 +1,15 @@
+c:\users\thesniper102\documents\visual studio 2013\Projects\winForms\Controls\bin\Debug\Controls.exe.config
+c:\users\thesniper102\documents\visual studio 2013\Projects\winForms\Controls\bin\Debug\Controls.exe
+c:\users\thesniper102\documents\visual studio 2013\Projects\winForms\Controls\bin\Debug\Controls.pdb
+c:\users\thesniper102\documents\visual studio 2013\Projects\winForms\Controls\obj\Debug\Controls.Form1.resources
+c:\users\thesniper102\documents\visual studio 2013\Projects\winForms\Controls\obj\Debug\Controls.Properties.Resources.resources
+c:\users\thesniper102\documents\visual studio 2013\Projects\winForms\Controls\obj\Debug\Controls.csproj.GenerateResource.Cache
+c:\users\thesniper102\documents\visual studio 2013\Projects\winForms\Controls\obj\Debug\Controls.exe
+c:\users\thesniper102\documents\visual studio 2013\Projects\winForms\Controls\obj\Debug\Controls.pdb
+C:\Users\TheSniper102\documents\visual studio 2013\Projects\winForms\Controls\obj\Debug\Controls.csprojResolveAssemblyReference.cache
+C:\Users\TheSniper102\documents\visual studio 2013\Projects\winForms\Controls\obj\Debug\Controls.frm2.resources
+C:\Users\TheSniper102\documents\visual studio 2013\Projects\winForms\Controls\obj\Debug\Controls.listView.resources
+C:\Users\TheSniper102\documents\visual studio 2013\Projects\winForms\Controls\obj\Debug\Controls.tstTreeView.resources
+C:\Users\TheSniper102\documents\visual studio 2013\Projects\winForms\Controls\obj\Debug\Controls.rdXml.resources
+C:\Users\TheSniper102\documents\visual studio 2013\Projects\winForms\Controls\obj\Debug\Controls.Hashing.resources
+C:\Users\TheSniper102\documents\visual studio 2013\Projects\winForms\Controls\obj\Debug\Controls.Splash.resources

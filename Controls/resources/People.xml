@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<People>
+  <person>
+    <name>Mohamed</name>
+    <age>25</age>
+    <email>Mohamed@gmail.com</email>
+  </person>
+  <person>
+    <name>Ahmed</name>
+    <age>23</age>
+    <email>Ahmed@gmail.com</email>
+  </person>
+</People>
